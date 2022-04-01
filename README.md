@@ -1,3 +1,4 @@
-# Portofolio Goggxi
-- Tailwind css
+# Portfolio Goggxi
 - html
+- javascript
+- Tailwind css
